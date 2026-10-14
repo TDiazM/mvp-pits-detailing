@@ -1,0 +1,12 @@
+# Base de datos vectorial local (se regenera con ingest.py)
+chroma_db/
+
+# Archivos PDF de cotizaciones generados
+*.pdf
+
+# Caché de Python
+__pycache__/
+
+# Entornos virtuales
+venv/
+.venv/
